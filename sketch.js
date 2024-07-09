@@ -23,7 +23,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(800, 450);
+  createCanvas(8000, 4500);
   bird = new Bird(); 
 }
 
